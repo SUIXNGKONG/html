@@ -1,1 +1,13 @@
-{}
+{
+  "monesy": {
+    "displayName": "monesy",
+    "portrait": "assets/players/monesy/portrait.avif",
+    "pictures": [
+      "assets/players/monesy/1.avif",
+      "assets/players/monesy/2.avif",
+      "assets/players/monesy/3.avif",
+      "assets/players/monesy/4.avif"
+    ],
+    "updatedAt": "2026-02-24 00:00"
+  }
+}
