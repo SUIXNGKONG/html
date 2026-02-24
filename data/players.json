@@ -16,4 +16,15 @@
     ],
     "updatedAt": "2026-02-24 00:00"
   }
+  "mezii": {
+    "displayName": "mezii",
+    "portrait": "assets/players/mezii/portrait.avif",
+    "pictures": [
+      "assets/players/mezii/1.avif",
+      "assets/players/mezii/2.avif",
+      "assets/players/mezii/3.avif",
+      "assets/players/mezii/4.avif"
+    ],
+    "updatedAt": "2026-02-24 00:00"
+  }
 }
